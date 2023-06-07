@@ -1,3 +1,11 @@
+Creator: CaliNux
+Date: 2023
+Programming Language: PowerShell + Python
+OS: Windows
+
+_______________________________________________________________
+
+
 This script will collect all devices and their associated IP addresses from the targets IP address. It will then store this data into a .txt file and send it to DropBox.
 
 
